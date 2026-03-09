@@ -6,9 +6,6 @@ API simples para gerenciamento de pedidos usando Node.js, Express, MongoDB (Atla
 
 API publicada em:
 
-## Live API
-https://api-jitterbit.onrender.com
-
 ## Swagger Documentation
 https://api-jitterbit.onrender.com/docs
 
