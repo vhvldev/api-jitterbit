@@ -11,7 +11,12 @@ const options = {
     servers: [
       {
         url: "http://localhost:3000",
+        description: "Servidor local"
       },
+      {
+        url: "https://api-jitterbit.onrender.com",
+        description: "Servidor produção"
+      }
     ],
     components: {
       securitySchemes: {
